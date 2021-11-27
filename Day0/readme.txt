@@ -2,7 +2,7 @@
 - Fork this repository
 - Create a directory of your GitHub username (or your name)
 - Put your code in that directory, then create a pull request
-- The full request will be accepted if the solution does not affect other's submission
+- The pull request will be accepted if the solution does not affect other's submission
 
 # Directory Structure
 Day0/<username>/assignment1/<code>.c
